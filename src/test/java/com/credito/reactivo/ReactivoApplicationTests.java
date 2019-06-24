@@ -1,4 +1,4 @@
-package com.tarjetaCredito.tarjetas;
+package com.credito.reactivo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class TarjetasApplicationTests {
+public class ReactivoApplicationTests {
 
 	@Test
 	public void contextLoads() {
